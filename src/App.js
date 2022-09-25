@@ -7,10 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We are deploying this website to Vercel
-        </p>
-        <p>
-          ANother change to deploy!
+          Deployed to Vercel!
         </p>
         <a
           className="App-link"
